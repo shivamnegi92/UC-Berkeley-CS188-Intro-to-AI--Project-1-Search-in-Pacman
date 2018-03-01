@@ -3,8 +3,8 @@
 http://ai.berkeley.edu/search.html
 
 # Search in Pacman #
-##Table of Contents
-###Introduction
+## Table of Contents ##
+### Introduction ###
 * Q1: Depth First Search
 * Q2: Breadth First Search
 * Q3: Uniform Cost Search
