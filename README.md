@@ -4,7 +4,6 @@ Implemented Depth-First Search, Breadth-First Search, Uniform Cost Search, A* Se
 
 For instructions to run the code, please refer to: https://inst.eecs.berkeley.edu/~cs188/fa10/projects/search/search.html
 
-http://ai.berkeley.edu/search.html
 
 # Search in Pacman #
 ## Table of Contents ##
